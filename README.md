@@ -1,2 +1,5 @@
-# Orienta-o-a-objetos
-Repositório contendo exercícios realizados durante curso da plataforma Alura, com foco em Orientação a Objetos em Java.
+# ☕ Estudando Java
+🚧 em construção 🚧
+
+## 🧠 Foco do repositório
+- Armazenar códigos desenvolvidos para estudar Orientação a Objetos em Java
