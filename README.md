@@ -21,3 +21,9 @@
 - Desenvolvimento de métodos para exibir a ficha técnica da música, avaliar e calcular a média de avaliações
 
   ![image](https://github.com/Maria-Faria/Orientacao-a-objetos/assets/114308727/329cdd14-b51b-4f7f-ba33-ab2dcea54ac3)
+
+### Exercício 4
+- Criação da classe Carro com atributos modelo, ano e cor
+- Desenvolvimento de métodos para exibição da ficha técnica do carro e para cálculo da idade do mesmo em anos
+
+  ![image](https://github.com/Maria-Faria/Orientacao-a-objetos/assets/114308727/60906713-a7b3-42b2-9d93-7d3e642258e4)
