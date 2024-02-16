@@ -27,3 +27,9 @@
 - Desenvolvimento de métodos para exibição da ficha técnica do carro e para cálculo da idade do mesmo em anos
 
   ![image](https://github.com/Maria-Faria/Orientacao-a-objetos/assets/114308727/60906713-a7b3-42b2-9d93-7d3e642258e4)
+
+### Exercício 5
+- Criação da classe Aluno com atributos nome e idade
+- Desenvolvimento de um método para exibir as informações do aluno
+
+  ![image](https://github.com/Maria-Faria/Orientacao-a-objetos/assets/114308727/b1778ddb-6129-473f-9d69-b6ca56a88851)
